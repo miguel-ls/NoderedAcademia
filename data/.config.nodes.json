@@ -427,26 +427,6 @@
             }
         }
     },
-    "node-red-contrib-mssql-plus": {
-        "name": "node-red-contrib-mssql-plus",
-        "version": "0.13.1",
-        "local": false,
-        "user": false,
-        "nodes": {
-            "mssql": {
-                "name": "mssql",
-                "types": [
-                    "MSSQL-CN",
-                    "MSSQL"
-                ],
-                "enabled": true,
-                "local": false,
-                "user": false,
-                "module": "node-red-contrib-mssql-plus",
-                "file": "D:\\miguel.lopez\\MyCloud\\FUENTES\\NODERED\\node_modules\\node-red-contrib-mssql-plus\\src\\mssql.js"
-            }
-        }
-    },
     "node-red-node-mysql": {
         "name": "node-red-node-mysql",
         "version": "3.0.3",
@@ -464,6 +444,26 @@
                 "user": false,
                 "module": "node-red-node-mysql",
                 "file": "D:\\miguel.lopez\\MyCloud\\FUENTES\\NODERED\\node_modules\\node-red-node-mysql\\68-mysql.js"
+            }
+        }
+    },
+    "node-red-contrib-mssql-plus": {
+        "name": "node-red-contrib-mssql-plus",
+        "version": "0.13.1",
+        "local": false,
+        "user": false,
+        "nodes": {
+            "mssql": {
+                "name": "mssql",
+                "types": [
+                    "MSSQL-CN",
+                    "MSSQL"
+                ],
+                "enabled": true,
+                "local": false,
+                "user": false,
+                "module": "node-red-contrib-mssql-plus",
+                "file": "D:\\miguel.lopez\\MyCloud\\FUENTES\\NODERED\\node_modules\\node-red-contrib-mssql-plus\\src\\mssql.js"
             }
         }
     }

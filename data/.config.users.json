@@ -18,7 +18,7 @@
                     "v": 4,
                     "tabs": [],
                     "primary": {
-                        "width": 452.988,
+                        "width": 800,
                         "top": {
                             "tabs": [
                                 "info",
@@ -26,9 +26,9 @@
                                 "config",
                                 "context"
                             ],
-                            "height": 571.465,
+                            "height": 587.422,
                             "hidden": false,
-                            "active": "context"
+                            "active": "config"
                         },
                         "bottom": {
                             "tabs": [
@@ -39,12 +39,12 @@
                         }
                     },
                     "secondary": {
-                        "width": 210,
+                        "width": 246.973,
                         "top": {
                             "tabs": [
                                 "explorer"
                             ],
-                            "height": 315,
+                            "height": 322.5,
                             "hidden": false,
                             "active": "explorer"
                         },
@@ -60,8 +60,15 @@
             },
             "tours": {
                 "welcome": "5.0.4"
+            },
+            "dialog": {
+                "export": {
+                    "pretty": false,
+                    "json-view": true
+                }
             }
         },
-        "menu-menu-item-right-sidebar": true
+        "menu-menu-item-right-sidebar": true,
+        "menu-menu-item-left-sidebar": true
     }
 }

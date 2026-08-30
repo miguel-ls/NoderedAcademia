@@ -18,7 +18,7 @@
                     "v": 4,
                     "tabs": [],
                     "primary": {
-                        "width": 800,
+                        "width": 0,
                         "top": {
                             "tabs": [
                                 "info",
@@ -26,7 +26,7 @@
                                 "config",
                                 "context"
                             ],
-                            "height": 200.43,
+                            "height": 589.922,
                             "hidden": false,
                             "active": "config"
                         },
@@ -44,7 +44,7 @@
                             "tabs": [
                                 "explorer"
                             ],
-                            "height": 322.5,
+                            "height": 327.5,
                             "hidden": false,
                             "active": "explorer"
                         },
